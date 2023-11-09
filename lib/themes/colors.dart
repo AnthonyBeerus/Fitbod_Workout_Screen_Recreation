@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 //* Dark Mode colors
 // const Color brandColor = Color(0xFFF72585);
 const Color brandColor = Color(0xFF7c162e);
-const Color backgroundColor = Color(0xFF191528);
-const Color secondaryDarkColor = Color(0xFF3c162f);
+const Color backgroundColor = Color(0xFF171717);
+const Color secondaryDarkColor = Color(0xFF444444);
 const Color tertiaryDarkColor = Color(0xFF3a015c);
 const Color textColor = Color(0xFFB3B3B3);
 
